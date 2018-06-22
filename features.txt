@@ -1,0 +1,8 @@
+Geral purpose programing
+opensource
+platform independent/portable
+dynamic type(static, dynamic)
+automaticmemory management
+extensible
+scalable
+
