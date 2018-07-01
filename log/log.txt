@@ -1,0 +1,49 @@
+ERROR:root:Error message
+DEBUG:root:debug message
+INFO:root:info message
+WARNING:root:warning message
+ERROR:root:Error message
+DEBUG:root:debug message
+INFO:root:info message
+WARNING:root:warning message
+ERROR:root:Error message
+DEBUG:root:debug message
+INFO:root:info message
+WARNING:root:warning message
+ERROR:root:Error message
+DEBUG:root:debug message
+INFO:root:info message
+WARNING:root:warning message
+2018-06-29 08:28:00,146=>ERROR==>Error message
+2018-06-29 08:28:00,150=>DEBUG==>debug message
+2018-06-29 08:28:00,150=>INFO==>info message
+2018-06-29 08:28:00,150=>WARNING==>warning message
+2018-06-29 08:28:00,150=>ERROR==>Error message
+2018-06-29 08:28:00,150=>DEBUG==>debug message
+2018-06-29 08:28:00,151=>INFO==>info message
+2018-06-29 08:28:00,151=>WARNING==>warning message
+2018-06-29 08:34:43,305=>INFO==>Starting the proces..
+2018-06-29 08:34:43,305=>ERROR==>name 'sqlite3' is not defined
+2018-06-29 08:35:05,887=>INFO==>Starting the proces..
+2018-06-29 08:35:05,892=>INFO==>Connected well to DB
+2018-06-29 08:35:05,892=>INFO==>created a cursor
+2018-06-29 08:35:05,892=>INFO==>Showing menu to the user
+2018-06-29 08:35:08,617=>DEBUG==>selected option: 1
+2018-06-29 08:35:08,617=>INFO==>providing search by id
+2018-06-29 08:35:10,048=>DEBUG==>query: select * from customer where id=23
+2018-06-29 08:35:10,049=>INFO==>query executed successfully!!
+2018-06-29 08:35:10,049=>DEBUG==>data: []
+2018-06-29 08:35:10,049=>INFO==>closing the connection
+2018-06-29 08:35:10,049=>INFO==>Done with the searching process..
+2018-06-29 08:35:13,304=>INFO==>Starting the proces..
+2018-06-29 08:35:13,305=>INFO==>Connected well to DB
+2018-06-29 08:35:13,305=>INFO==>created a cursor
+2018-06-29 08:35:13,305=>INFO==>Showing menu to the user
+2018-06-29 08:35:17,152=>DEBUG==>selected option: 1
+2018-06-29 08:35:17,152=>INFO==>providing search by id
+2018-06-29 08:35:18,481=>DEBUG==>query: select * from customer where id=56
+2018-06-29 08:35:18,481=>INFO==>query executed successfully!!
+2018-06-29 08:35:18,481=>DEBUG==>data: [(56, u'thrishanth')]
+2018-06-29 08:35:18,481=>INFO==>closing the connection
+2018-06-29 08:35:18,481=>INFO==>Done with the searching process..
+2018-06-29 08:39:54,152=>ERROR==>no such column: terytuyiu
